@@ -7,3 +7,20 @@ AVR8js + Monaco Editor. To run this demo:
 3. Go to http://localhost:3000/ and start tinkering
 
 The demo is configured to automatically reload the app whenever you change the code.
+
+###Ino code for test
+
+#include "SPI.h"
+#include "Adafruit_GFX.h"
+#include <Adafruit_ILI9341.h>
+
+void setup() {
+
+
+
+}
+
+void loop() {
+
+
+}
