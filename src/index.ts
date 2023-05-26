@@ -21,7 +21,7 @@ void setup() {
 }
 
 void loop() {
-  Serial.println("Blrererink");
+  Serial.println("Blink");
   digitalWrite(LED_BUILTIN, HIGH);
   delay(500);
   digitalWrite(LED_BUILTIN, LOW);

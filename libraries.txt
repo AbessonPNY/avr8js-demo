@@ -1,1 +1,1 @@
-Adafruit_ILI9341
+Adafruit ILI9341
